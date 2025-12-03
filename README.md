@@ -1,4 +1,4 @@
-Hi there!
+# **Hi !**
 
 Im a learner exploring Python and AI.
 
